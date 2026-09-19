@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="ghost-banner.png" alt="GHOST" width="100%">
+  <img src="banner.jpg" alt="0xmikadzyki" width="100%">
 </p>
 
 <table>
 <tr>
 <td valign="top" width="62%">
 
-**0xmikadzyki** — onchain data, read-only. Pipelines, not promises.
+**MIKADZYKI** — onchain, NFTs, content.
 
-I build the boring half of the stack: the part that ingests a whole chain, counts it exactly, and answers *where did the money go* without asking anyone to trust a screenshot.
+I live on the timeline and on the tape. Collections, mints, the rooms where a call actually goes somewhere — and the receipts after, when the hype is gone and only the chain remembers what happened.
 
-Current desk is **[GHOST](https://github.com/0xmikadzyki/ghost)** — the fund-flow pipeline behind an explorer for **Robinhood Chain** (Arbitrum Orbit L2, chain id 4663). Full-chain backfill of ERC-20 `Transfer` events, **1,432,014,401 transfers** folded into ClickHouse, eight read-only JSON routes on top. Every number in that repo is a response field, not an estimate — reproducible by anyone with a free HyperSync token.
+What I post is what I hold. What I build is what I needed and nobody shipped. No paid groups, no signal service, no "DM me". The work is public or it is not real.
 
-No keys. No custody. No contract address — if something claims to be this project and asks for a wallet, it is not mine.
+Lately that means writing tools instead of threads about tools: the desk I run reads the chain directly, counts everything exactly, and answers the only question that matters after a pump — **where did the money go**.
 
 ### What I run now
 
-- **[GHOST](https://github.com/0xmikadzyki/ghost)** — fund-flow pipeline, Robinhood Chain, read-only API
-- **the backfill** — 1.4B transfers, exact counts, latency measured not guessed
-- **the graph** — token movement between addresses, depth-2 in ~1s
+- **X** — [@Mikadzyki_NFT](https://x.com/Mikadzyki_NFT) — daily, the takes and the calls
+- **the tape** — onchain flow, wallets, who sold into whom
+- **desks** — tools shipped in public: [GHOST](https://github.com/0xmikadzyki/ghost) — fund-flow explorer pipeline, read-only, no keys
 
 ### Stack I actually touch
 
@@ -35,15 +35,17 @@ No keys. No custody. No contract address — if something claims to be this proj
 
 <br><br>
 
+<a href="https://x.com/Mikadzyki_NFT"><img src="https://img.shields.io/badge/X_/_@Mikadzyki__NFT-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+
 <a href="https://github.com/0xmikadzyki/ghost"><img src="https://img.shields.io/badge/GHOST-EB25D5?style=for-the-badge&logoColor=white" alt="GHOST"></a>
 
 <br>
 
-onchain data, read-only
+onchain since the last cycle
 
-1.4B transfers indexed
+NFTs, flow, the timeline
 
-chain 4663
+tools shipped in public
 
 </td>
 </tr>

@@ -20,6 +20,18 @@ Lately that means writing tools instead of threads about tools: the desk I run r
 - **the tape** — onchain flow, wallets, who sold into whom
 - **desks** — tools shipped in public: [GHOST](https://github.com/0xmikadzyki/ghost) — fund-flow explorer pipeline, read-only, no keys
 
+### $SENTINEL — official CA
+
+```
+6JQ8YC5TF2cHuvB1JatZQE6ui8YnZNsKBQqK18Tapump
+```
+
+Solana · launched on pump.fun · the only contract. Anything else with the name is not it.
+
+<a href="https://pump.fun/coin/6JQ8YC5TF2cHuvB1JatZQE6ui8YnZNsKBQqK18Tapump"><img src="https://img.shields.io/badge/pump.fun-111111?style=for-the-badge&logoColor=white" alt="pump.fun"></a>
+<a href="https://dexscreener.com/solana/6JQ8YC5TF2cHuvB1JatZQE6ui8YnZNsKBQqK18Tapump"><img src="https://img.shields.io/badge/dexscreener-111111?style=for-the-badge&logoColor=white" alt="DexScreener"></a>
+<a href="https://solscan.io/token/6JQ8YC5TF2cHuvB1JatZQE6ui8YnZNsKBQqK18Tapump"><img src="https://img.shields.io/badge/solscan-111111?style=for-the-badge&logo=solana&logoColor=9945FF" alt="Solscan"></a>
+
 ### Stack I actually touch
 
 ![Python](https://img.shields.io/badge/python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -38,6 +50,8 @@ Lately that means writing tools instead of threads about tools: the desk I run r
 <a href="https://x.com/Mikadzyki_NFT"><img src="https://img.shields.io/badge/X_/_@Mikadzyki__NFT-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 
 <a href="https://github.com/0xmikadzyki/ghost"><img src="https://img.shields.io/badge/GHOST-EB25D5?style=for-the-badge&logoColor=white" alt="GHOST"></a>
+
+<a href="https://pump.fun/coin/6JQ8YC5TF2cHuvB1JatZQE6ui8YnZNsKBQqK18Tapump"><img src="https://img.shields.io/badge/$SENTINEL-solana-9945FF?style=for-the-badge&labelColor=111111&logo=solana&logoColor=9945FF" alt="$SENTINEL"></a>
 
 <br>
 

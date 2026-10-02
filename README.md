@@ -22,9 +22,7 @@ Lately that means writing tools instead of threads about tools: the desk I run r
 
 ### $SENTINEL — official CA
 
-```
-6JQ8YC5TF2cHuvB1JatZQE6ui8YnZNsKBQqK18Tapump
-```
+
 
 Solana · launched on pump.fun · the only contract. Anything else with the name is not it.
 

@@ -20,15 +20,7 @@ Lately that means writing tools instead of threads about tools: the desk I run r
 - **the tape** — onchain flow, wallets, who sold into whom
 - **desks** — tools shipped in public: [GHOST](https://github.com/0xmikadzyki/ghost) — fund-flow explorer pipeline, read-only, no keys
 
-### $SENTINEL — official CA
 
-
-
-Solana · launched on pump.fun · the only contract. Anything else with the name is not it.
-
-<a href="https://pump.fun/coin/6JQ8YC5TF2cHuvB1JatZQE6ui8YnZNsKBQqK18Tapump"><img src="https://img.shields.io/badge/pump.fun-111111?style=for-the-badge&logoColor=white" alt="pump.fun"></a>
-<a href="https://dexscreener.com/solana/6JQ8YC5TF2cHuvB1JatZQE6ui8YnZNsKBQqK18Tapump"><img src="https://img.shields.io/badge/dexscreener-111111?style=for-the-badge&logoColor=white" alt="DexScreener"></a>
-<a href="https://solscan.io/token/6JQ8YC5TF2cHuvB1JatZQE6ui8YnZNsKBQqK18Tapump"><img src="https://img.shields.io/badge/solscan-111111?style=for-the-badge&logo=solana&logoColor=9945FF" alt="Solscan"></a>
 
 ### Stack I actually touch
 

@@ -39,9 +39,9 @@ Lately that means writing tools instead of threads about tools: the desk I run r
 
 <a href="https://x.com/Mikadzyki_NFT"><img src="https://img.shields.io/badge/X_/_@Mikadzyki__NFT-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 
-<a href="https://github.com/0xmikadzyki/ghost"><img src="https://img.shields.io/badge/GHOST-EB25D5?style=for-the-badge&logoColor=white" alt="GHOST"></a>
 
-<a href="https://pump.fun/coin/6JQ8YC5TF2cHuvB1JatZQE6ui8YnZNsKBQqK18Tapump"><img src="https://img.shields.io/badge/$SENTINEL-solana-9945FF?style=for-the-badge&labelColor=111111&logo=solana&logoColor=9945FF" alt="$SENTINEL"></a>
+
+
 
 <br>
 
